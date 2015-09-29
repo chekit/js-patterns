@@ -1,0 +1,24 @@
+{
+  "name": "js-patterns",
+  "version": "1.0.0",
+  "description": "Code examples for the JS Patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chekit/js-patterns.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "design",
+    "patterns"
+  ],
+  "author": "Anton Cherepov (chekitdnb@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chekit/js-patterns/issues"
+  },
+  "homepage": "https://github.com/chekit/js-patterns#readme"
+}

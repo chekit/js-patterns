@@ -1,0 +1,21 @@
+{
+  "name": "js-patterns",
+  "version": "1.0.0",
+  "homepage": "https://github.com/chekit/js-patterns",
+  "authors": [
+    "Anton Cherepov <chekitdnb@gmail.com>"
+  ],
+  "description": "Code for JS Patterns Course",
+  "main": "",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
