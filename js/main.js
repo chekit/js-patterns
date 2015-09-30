@@ -1,12 +1,14 @@
 require(
-	[],
-	function () {
+	['factory/init'],
+	function (factory) {
 		'use strict';
 
-		var examples = {};
+		var examples = {
+			factory: factory
+		};
 
 		window.runExamples = function (example) {
-			exemples[example].init();
+			examples[example].init();
 		};
 	}
 );
