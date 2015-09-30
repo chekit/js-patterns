@@ -4,6 +4,6 @@ This repository is created while studing the cours "[Put JavaScript Design Patte
 ##Tags
 - `v0.0.1` - *Factory Pattern*
 
-> To switch over tags type in terminal `git checkout -b <branch name> <tag name>`
+> To switch over tags type in terminal `git checkout -f <tag name>`
 
 [Put JavaScript Design Patterns Into Practice]: https://code.tutsplus.com/courses/put-javascript-design-patterns-into-practice
