@@ -3,7 +3,8 @@ define(function (require) {
 
 	return {
 		init: function () {
-			var moduleB = require('pubsub/moduleB');
+			var moduleA = require('pubsub/moduleA'),
+				moduleB = require('pubsub/moduleB');
 
 			moduleB.publishEvent();
 			moduleB.publishEvent();
