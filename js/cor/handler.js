@@ -10,7 +10,9 @@ define(function () {
 	CommunicationHandler.prototype.handleRequest = function (communication) {
 		if (communication.type !== this.communicationType) {
 			(this.nextHandler) ? this.nextHandler.handleRequest(communication) :
+				/*eslint-disable*/
 				console.log('Communication type', communication.type, 'could not be handled');
+				/*eslint-enable*/
 
 			return;
 		}

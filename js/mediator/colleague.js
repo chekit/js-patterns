@@ -7,7 +7,9 @@ define(function () {
 	};
 
 	Colleague.prototype.recieveMessage = function (message) {
+		/*eslint-disable*/
 		console.log('Module', this.id, 'recieved message', message);
+		/*eslint-enable*/
 
 		return true;
 	};

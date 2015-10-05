@@ -5,9 +5,10 @@ require(
 		'strategy/init',
 		'observer/init',
 		'cor/init',
-		'mediator/init'
+		'mediator/init',
+		'iterator/init'
 	],
-	function (factory, pubsub, strategy, observer, cor, mediator) {
+	function (factory, pubsub, strategy, observer, cor, mediator, iterator) {
 		'use strict';
 
 		var examples = {
@@ -16,7 +17,8 @@ require(
 			strategy: strategy,
 			observer: observer,
 			cor: cor,
-			mediator: mediator
+			mediator: mediator,
+			iterator: iterator
 		};
 
 		window.runExamples = function (example) {
