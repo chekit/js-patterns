@@ -11,6 +11,8 @@ This repository is created while studing the cours "[Put JavaScript Design Patte
 - `v0.0.3` - *Strategy Pattern*
 - `v0.0.4` - *Observer Pattern*
 - `v0.0.5` - *The Chain of Responsibility Pattern*
+- `v0.0.6` - *Mediator Pattern*
+- `v0.0.7` - *Iterator Pattern*
 
 > To switch over tags type in terminal `git checkout -f <tag name>`
 
