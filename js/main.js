@@ -6,9 +6,10 @@ require(
 		'observer/init',
 		'cor/init',
 		'mediator/init',
-		'iterator/init'
+		'iterator/init',
+		'facade/init'
 	],
-	function (factory, pubsub, strategy, observer, cor, mediator, iterator) {
+	function (factory, pubsub, strategy, observer, cor, mediator, iterator, facade) {
 		'use strict';
 
 		var examples = {
@@ -18,7 +19,8 @@ require(
 			observer: observer,
 			cor: cor,
 			mediator: mediator,
-			iterator: iterator
+			iterator: iterator,
+			facade: facade
 		};
 
 		window.runExamples = function (example) {
