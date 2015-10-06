@@ -8,9 +8,10 @@ require(
 		'mediator/init',
 		'iterator/init',
 		'facade/init',
-		'decorator/init'
+		'decorator/init',
+		'adapter/init'
 	],
-	function (factory, pubsub, strategy, observer, cor, mediator, iterator, facade, decorator) {
+	function (factory, pubsub, strategy, observer, cor, mediator, iterator, facade, decorator, adapter) {
 		'use strict';
 
 		var examples = {
@@ -22,7 +23,8 @@ require(
 			mediator: mediator,
 			iterator: iterator,
 			facade: facade,
-			decorator: decorator
+			decorator: decorator,
+			adapter: adapter
 		};
 
 		window.runExamples = function (example) {
