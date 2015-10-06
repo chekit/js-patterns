@@ -25,6 +25,10 @@ This repository is created while studing the cours "[Put JavaScript Design Patte
 
 > Before any doings: `bower install`
 
+To deal with patterns (see it in action) just open `index.html`, then console in developer tools and type in `window.runExamples(<pattern name>);`
+
+> pattern names: *factory*, *pubsub*, *strategy*, *observer*, *cor*, *mediator*, *iterator*, *facade*, *decorator*, *adapter*, *composite*, *proxy*
+
 ##Patterns by Shi Chuan
 
 > Useful [Patterns Compilation]
