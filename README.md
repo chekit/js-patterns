@@ -24,8 +24,11 @@ This repository is created while studing the cours "[Put JavaScript Design Patte
 
 > Before any doings:
 `bower install`
+
 ===
+
 ##Patterns by Shi Chuan
+
 > Useful [Patterns Compilation]
 
 [Put JavaScript Design Patterns Into Practice]: https://code.tutsplus.com/courses/put-javascript-design-patterns-into-practice
