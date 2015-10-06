@@ -19,13 +19,15 @@ This repository is created while studing the cours "[Put JavaScript Design Patte
 - `v0.0.9` - *Decorator Pattern*
 - `v0.0.10` - *Adapter Pattern*
 - `v0.0.11` - *Composite Pattern*
+- `v0.0.12` - *Proxy Pattern*
 
 > To switch over tags type in terminal `git checkout -f <tag name>`
 
 > Before any doings:
 `bower install`
-===
+
 ##Patterns by Shi Chuan
+
 > Useful [Patterns Compilation]
 
 [Put JavaScript Design Patterns Into Practice]: https://code.tutsplus.com/courses/put-javascript-design-patterns-into-practice
