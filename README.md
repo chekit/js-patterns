@@ -23,8 +23,7 @@ This repository is created while studing the cours "[Put JavaScript Design Patte
 
 > To switch over tags type in terminal `git checkout -f <tag name>`
 
-> Before any doings:
-`bower install`
+> Before any doings: `bower install`
 
 ##Patterns by Shi Chuan
 
