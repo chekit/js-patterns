@@ -16,6 +16,7 @@ This repository is created while studing the cours "[Put JavaScript Design Patte
 
 ### Structural Patterns
 - `v0.0.8` - *Facade Pattern*
+- `v0.0.9` - *Decorator Pattern*
 
 > To switch over tags type in terminal `git checkout -f <tag name>`
 

@@ -25,5 +25,5 @@ define(function (require) {
 					return 'Unable to procerss the thing!';
 			}
 		}
-	}
+	};
 });
